@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">LinearAndGrid</string>
+    <string name="scrollright">scrollRight</string>
+    <string name="srcollarrow">srcollArrow</string>
+    <string name="input">Перейти</string>
+</resources>
