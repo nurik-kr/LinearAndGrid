@@ -3,4 +3,5 @@
     <string name="scrollright">scrollRight</string>
     <string name="srcollarrow">srcollArrow</string>
     <string name="input">Перейти</string>
+    <string name="text">text</string>
 </resources>
